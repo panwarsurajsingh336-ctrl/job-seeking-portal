@@ -9,6 +9,12 @@ HireVyom is a beginner-friendly full-stack job portal website built with:
 - Role-based dashboards for Job Seeker, Employer, and Admin
 - Premium dark navy, electric blue, cyan, and violet UI using plain CSS
 
+# Demo Accounts
+   Role   	    Email,          	   Password
+👤 Job Seeker	  seeker@demo.com      demo123
+🏢 Employer  	  employer@demo.com    demo123
+🛠️ Admin      	admin@demo.com	     demo123
+
 ## Brand
 
 HireVyom means a modern career and hiring platform where job seekers rise higher and companies discover better talent.
